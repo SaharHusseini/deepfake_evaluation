@@ -16,14 +16,11 @@ Our dataset structure follows the format of the original FaceScape [1] dataset, 
 ## Synthesized Dataset of MetaHumans
 In addition to the Real Head dataset, we offer an example of a synthesized dataset of MetaHumans. This dataset comprises six different characters sharing the same head pose and expression. You can access the dataset through the following link: 
 
-https://drive.google.com/drive/folders/1fRA22md2uqez84zyV1cJ5TlRVZbtrght?usp=sharing
-
+https://synthesizedmetahuman.eurecom.fr/
 
 ### Contact
 If you have any questions, feedback, or inquiries related to this project, please feel free to reach out to us. You can find our contact information in the 
 * ToDo
 
-
-Note: This repository is currently under construction, and we are actively working on adding more content. Please check back later for updates!
 
 [1] https://github.com/zhuhao-nju/facescape
