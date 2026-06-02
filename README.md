@@ -19,8 +19,5 @@ In addition to the Real Head dataset, we offer an example of a synthesized datas
 https://synthesizedmetahuman.eurecom.fr/
 
 ### Contact
-If you have any questions, feedback, or inquiries related to this project, please feel free to reach out to us. You can find our contact information in the 
-* ToDo
-
 
 [1] https://github.com/zhuhao-nju/facescape
